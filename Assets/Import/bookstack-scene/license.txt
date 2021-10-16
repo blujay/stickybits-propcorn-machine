@@ -1,0 +1,11 @@
+Model Information:
+* title:	bookstack-scene
+* source:	https://sketchfab.com/3d-models/bookstack-scene-c0b8f5b3a897432b81208528f43807a0
+* author:	Maf'j Alvarez (https://sketchfab.com/blujay)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "bookstack-scene" (https://sketchfab.com/3d-models/bookstack-scene-c0b8f5b3a897432b81208528f43807a0) by Maf'j Alvarez (https://sketchfab.com/blujay) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
