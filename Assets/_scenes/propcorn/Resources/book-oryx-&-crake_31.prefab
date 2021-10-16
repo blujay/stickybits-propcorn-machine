@@ -235,7 +235,7 @@ MonoBehaviour:
   m_snapOrientation: 0
   m_snapOffset: {fileID: 0}
   m_grabPoints:
-  - {fileID: 0}
+  - {fileID: 6915752342934046683}
   onGrab:
     m_PersistentCalls:
       m_Calls:
