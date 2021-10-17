@@ -1,0 +1,11 @@
+Model Information:
+* title:	Purple-flower
+* source:	https://sketchfab.com/3d-models/purple-flower-8806b403ed7e4e30b06a334db00d2329
+* author:	Maf'j Alvarez (https://sketchfab.com/blujay)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Purple-flower" (https://sketchfab.com/3d-models/purple-flower-8806b403ed7e4e30b06a334db00d2329) by Maf'j Alvarez (https://sketchfab.com/blujay) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
