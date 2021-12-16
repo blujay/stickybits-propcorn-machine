@@ -449,7 +449,6 @@ GameObject:
   - component: {fileID: 544307140339735984}
   - component: {fileID: 544307140339735988}
   - component: {fileID: 544307140339735985}
-  - component: {fileID: 544307140437405419}
   m_Layer: 0
   m_Name: OVRNetworkCameraRig
   m_TagString: Untagged
@@ -577,26 +576,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   head: {fileID: 544307140339734022}
-  rightHand: {fileID: 544307140339734023}
-  leftHand: {fileID: 544307140339734016}
---- !u!143 &544307140437405419
-CharacterController:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 544307140339734027}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Height: 2
-  m_Radius: 0.5
-  m_SlopeLimit: 45
-  m_StepOffset: 0.3
-  m_SkinWidth: 0.08
-  m_MinMoveDistance: 0.001
-  m_Center: {x: 0, y: 0, z: 0}
+  rightHand: {fileID: 0}
+  leftHand: {fileID: 0}
 --- !u!1 &3205599955112183345
 GameObject:
   m_ObjectHideFlags: 0
@@ -644,8 +625,8 @@ CharacterController:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Height: 2
-  m_Radius: 0.5
+  m_Height: 1.5
+  m_Radius: 0.3
   m_SlopeLimit: 45
   m_StepOffset: 0.3
   m_SkinWidth: 0.01

@@ -5,12 +5,18 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/QuestPun2Template/Scenes/Photon2Lobby.unity
     guid: b5ade731b4c7c47ce9294f37a7286ab6
-  - enabled: 1
-    path: Assets/_scenes/propcorn/propcorn.unity
+  - enabled: 0
+    path: Assets/Propcorn/propcorn.unity
     guid: 9df555ef522d36647ad1f22fa62ae73d
+  - enabled: 0
+    path: Assets/_scenes/avatar.unity
+    guid: 33efc5f0df2dc98409f37d629337fd49
+  - enabled: 1
+    path: Assets/_scenes/avatar-chain.unity
+    guid: 9c01436454dcc3f4ba17e86741cbb121
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 08bb4cbfd700142ba97046a378a1ca4a,
       type: 2}

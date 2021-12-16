@@ -1,0 +1,5 @@
+newmtl corn
+map_Kd corn.jpg
+Kd 1 1 1
+d 1
+
